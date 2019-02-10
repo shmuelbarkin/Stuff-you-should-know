@@ -1,7 +1,7 @@
-##Intro
+## Intro
 This a checklist that can be used for a typical marketing HTML/CSS site
 
-##Setup
+## Setup
 **Content**<br>
 *Obtain all site content and assets* 
 1. Site design
@@ -32,7 +32,7 @@ This a checklist that can be used for a typical marketing HTML/CSS site
 **Task list**
 - Create task for developer  
 
-##Checklist
+## Checklist
 **Styling**
 - Favicon has been added and looks right
 - Mobile styles all look right

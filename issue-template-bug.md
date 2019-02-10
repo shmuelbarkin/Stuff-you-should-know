@@ -1,17 +1,17 @@
 **Steps to reproduce**
-1.
-2.
-3.
+1. Example
+2. Example
+3. Example
 
 **Expected result**
-1.
-2.
-3.
+1. Example
+2. Example
+3. Example
 
 **Actual Result**
-1.
-2.
-3.
+1. Example
+2. Example
+3. Example
 
 **Error Environment**
 1. Users:
