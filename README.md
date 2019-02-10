@@ -1,5 +1,10 @@
-# Stuff you should know
-## Tools
+#Stuff you should know
+##Objective
+This objective of this project is to provide a list of basic development concepts for geared towards beginning developers. These are listed below. I have also included some other useful resources. Such as- common command line commands,  issue templates, website checklist. Those are adding files in this repo. 
+##Contribute
+Feel free to contribute. Create a pull request, or shoot me an email at sb@sbarkin.com.
+
+##Tools
 1. CLI (SSH Client)
    - iTerm (Mac)
    - Putty (Windows)
