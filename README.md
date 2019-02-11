@@ -6,69 +6,71 @@ I have also included some other useful resources, such as - common command line 
 Feel free to contribute. Create a pull request, or shoot me an email at sb@sbarkin.com.
 ## Tooling
 1. CLI (SSH Client)
-   - iTerm (Mac)
-   - Putty (Windows)
-   - Linux Bash Shell on Windows 10 see here
-   - Many others are available - if you are working with Linux servers (PHP)  it's best to find a something more native to Linux. One example is -  Babun 
+   - [iTerm2](https://www.iterm2.com/) (Mac)
+   - [Putty](https://www.putty.org/) (Windows)
+   - [Linux Bash Shell](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) on Windows 10
+   - Many others are available - if you are working with Linux servers it's best to find a something more native to Linux. One example is -  [Babun](http://babun.github.io/) 
 1. FTP/SFTP
    - SFTP uses SSH credentials to connect
    - FTP uses FTP  credentials to connect (not secure)
-   - FileZilla 
-   - WinSCP
+   - [FileZilla](https://filezilla-project.org/)
+   - [WinSCP](https://winscp.net/eng/index.php) (Windows)
 1. Editors
-   - Atom
-   - NPP
-   - Sublime
-   - Brackets
-   - Visual Studio Code
-   - Notepad++ (Windows)
+   - [Atom](https://atom.io/)
+   - [Sublime](https://www.sublimetext.com/) (Mac)
+   - [Brackets](http://brackets.io/)
+   - [Visual Studio Code](https://code.visualstudio.com/)
+   - [Notepad++](https://notepad-plus-plus.org/) (Windows)
 1. IDE
-   - JetBrains (multiple IDEs for many languages) 
-   - Visual Studio 
-   - Eclipse (Mac)
-   - Xcode (Mac)
+   - [JetBrains](https://www.jetbrains.com/) (multiple IDEs for many languages) 
+   - [Visual Studio](https://visualstudio.microsoft.com/) 
+   - [Eclipse](https://www.eclipse.org/ide/) (Mac)
+   - [Xcode](v) (Mac)
 1. App Installer 
-   - Homebrew (Mac)
-   - Ninite.com (Windows)
+   - [Homebrew](https://brew.sh/) (Mac)
+     - [Homebrew Cask](https://github.com/Homebrew/homebrew-cask)
+   - [Ninite](Ninite.com) (Windows)
      - Safe Download of popular free software. Free software is often available on shady sites with bloatware or malware. Always make sure you are downloading from a trusted source. 
-   - macapps (Mac)
-   - GetMacApps (Mac)
+   - [macapps](https://macapps.link/en) (Mac)
+   - [GetMacApps](http://www.getmacapps.com/) (Mac)
 1. Sharing screenshots (no, don't take a picture of your screen with your camera :)
    - Chrome extensions
-   - Jing
-   - Gyazo
+   - [Jing](https://www.techsmith.com/jing-tool.html)
+   - [Gyazo](https://gyazo.com/)
+   - [CloudApp](https://www.getcloudapp.com/)
    - LightShot (they have a desktop app and a Chrome extension, see extension too)
 1. Issue Tracker
-   - Jira - the leading option  
-   - YouTrack - simpler and cheaper and usually sufficient alternative 
-1. Time tracker
-   - Toggl.com   
+   - [Jira](https://www.atlassian.com/software/jira) - the leading option  
+   - [YouTrack](https://www.jetbrains.com/youtrack/) - simpler and cheaper and usually sufficient alternative 
+1. Time tracking
+   - [toggle](toggl.com)
+   - [Harvest](https://www.getharvest.com/)  
 1. Chat Tools 
-   - Slack
-   - Skype
+   - [Slack](https://slack.com/)
+   - [Skype](https://www.skype.com/)
    - Google Hangouts
 1. Email Options
-   - G Suite
-   - Office 365
+   - [G Suite](https://gsuite.google.com/)
+   - [Office 365](https://www.office.com/)
    - Self Hosted  
 ## Build
 1. Setting up a local development environment 
    - Localhost web server
-   - xampp and wampp (Windows)
+   - [XAMPP](https://www.apachefriends.org/index.html) and [WampServer](http://www.wampserver.com/en/) (Windows)
    - Virtual machine
-        - Vagrant
-        - Oracle VirtualBox
+        - [Vagrant](https://www.vagrantup.com/)
+        - [VirtualBox](https://www.virtualbox.org/)
    - Package manager
-     - Homebrew for Mac, NPM, PHP composer, Ruby gems, Cocoa Pods for iOS, Nuget for C#
+     - NPM for JS, Composer for PHP, RubyGems for Ruby, Cocoa Pods for iOS, Nuget for C#
 1. VCS (version control)
    - GIT
    - Common commands  `git add`, `git commit -m <msg>`, `git push`, `git pull`, `git status`
    - You should know how to initiate a remote repository connect to cloud hosted repo and how to clone a project
    - Understand  the different  workflows, ie feature branches
 1. Cloud GIT repositories
-   - GitHub
-   - BitBucket
-   - GitLab
+   - [GitHub](https://github.com/)
+   - [BitBucket](https://bitbucket.org)
+   - [GitLab](https://about.gitlab.com/)
 1. Semantic Versioning
    - The most popular way of version numbering in software development
    - https://semver.org/
@@ -80,12 +82,12 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - React, Angular, Node.js, Vue.js
 1. Content management systems (CMS) - sometimes used for web development
    - Drupal, WordPress, Joomla
-1. Postman - for testing APIs    
+1. [Postman](https://www.getpostman.com/) - for testing APIs    
 ## Deploy
 1. CD/CI
    - Continuous integration
-     - Jenkins
-     - Travis
+     - [Jenkins](https://jenkins.io/)
+     - [Travis](https://travis-ci.com/)
    - Continuous deployment (or delivery)
 1. Server environments
    - Development
@@ -112,43 +114,46 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
 1. CDN
    - Cloudflare
 1. Cloud Hosting Companies
-   - AWS
-   - Azure 
-   - Google
-   - DigitalOcean
+   - [AWS](https://aws.amazon.com/)
+   - [Azure](https://azure.microsoft.com/en-us/)
+   - [Google Cloud](https://cloud.google.com/)
+   - [DigitalOcean](https://www.digitalocean.com/)
 1. Container Management
-   - Docker
-   - Kubernetes
-1. Serverless, Headless CMS, AMP
+   - [Docker](https://www.docker.com/)
+   - [Kubernetes](https://kubernetes.io/)
+1. Serverless, Headless CMS, [AMP](https://www.ampproject.org/)
 ## Monitor 
 1. FullStory, HotJar, Google Analytics
 ## Resources 
-- https://github.com/thedaviddias/Front-End-ChecklistGit 
-- Cheat sheet: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+- Got a question?
+   - Ask Google?
+- Still can find the answer
+   -  Ask on [StackExchange](https://stackexchange.com/)
+- [Git Cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 ## Random Terms 
    - Client - a program on the computer used to access something. Email client, CLI client...
    - Provision (server)
 ## Design 
 1. UI/UX 
    - Design
-     - Sketch (Mac)
-     - Adobe XD
-     - Framer
-     - InVision Studio
-     - Figma
+     - [Sketch](https://www.sketchapp.com/) (Mac)
+     - [Adobe XD](https://www.adobe.com/products/xd.html)
+     - [Framer](https://framer.com/)
+     - [InVision Studio](https://www.invisionapp.com/studio)
+     - [Figma](https://www.figma.com/)
    - Prototype/Share
-     - InVision
-     - Sketch Cloud
-     - Marvel
+     - [InVision](https://www.invisionapp.com/)
+     - [Sketch Cloud](https://www.sketchapp.com/)
+     - [Marvel](https://marvelapp.com/)
    - Handoff
-     - Zeplin
-     - InVision Inspect
+     - [Zeplin](https://zeplin.io/)
+     - [InVision Inspect](https://www.invisionapp.com/feature/inspect/)
    - DSM (Design system management)
      - Style Guide
-     - InVision DSM
+     - [InVision DSM](https://www.invisionapp.com/design-system-manager/learn)
      - Sketch Libraries
 1. General Design
-   - Illustrator - primarily for vector images
+   - Illustrator - primarily for vector images (free alternative [Inkscape](https://inkscape.org/))
    - Photoshop - primarily for raster (free alternative GIMP)
    - Grab a color value from your screen - http://colorcop.net/  (Windows)
 1. Image types (which to use when)
@@ -156,6 +161,7 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - png - with transparency (e.g. logo image)
    - svg - vector image format 
 1. Raster vs vector
+1. Need inspiration? Go to [Dribbble](https://dribbble.com/) 
 ## Setting up your computer 
 1. Windows account types
    - AD
