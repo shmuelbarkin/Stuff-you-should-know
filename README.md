@@ -24,7 +24,7 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
 1. IDE
    - [JetBrains](https://www.jetbrains.com/) (multiple IDEs for many languages) 
    - [Visual Studio](https://visualstudio.microsoft.com/) 
-   - [Eclipse](https://www.eclipse.org/ide/) (Mac)
+   - [Eclipse](https://www.eclipse.org/ide/)
    - [Xcode](https://developer.apple.com/xcode/) (Mac)
 1. App Installer 
    - [Homebrew](https://brew.sh/) (Mac)
