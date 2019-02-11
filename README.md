@@ -5,7 +5,7 @@ I have also included some other useful resources, such as - common command line 
 ## Contribute
 Feel free to contribute. Create a pull request, or shoot me an email at sb@sbarkin.com.
 ## Tooling
-1. CLI (SSH Client)
+1. [CLI](https://en.wikipedia.org/wiki/Command-line_interface) (SSH Client)
    - [iTerm2](https://www.iterm2.com/) (Mac)
    - [Putty](https://www.putty.org/) (Windows)
    - [Linux Bash Shell](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) on Windows 10
@@ -25,7 +25,7 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - [JetBrains](https://www.jetbrains.com/) (multiple IDEs for many languages) 
    - [Visual Studio](https://visualstudio.microsoft.com/) 
    - [Eclipse](https://www.eclipse.org/ide/) (Mac)
-   - [Xcode](v) (Mac)
+   - [Xcode](https://developer.apple.com/xcode/) (Mac)
 1. App Installer 
    - [Homebrew](https://brew.sh/) (Mac)
      - [Homebrew Cask](https://github.com/Homebrew/homebrew-cask)
@@ -34,11 +34,11 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - [macapps](https://macapps.link/en) (Mac)
    - [GetMacApps](http://www.getmacapps.com/) (Mac)
 1. Sharing screenshots (no, don't take a picture of your screen with your camera :)
-   - Chrome extensions
+   - [Chrome extensions](https://chrome.google.com/webstore/search/screenshot?utm_source=chrome-ntp-icon&_category=extensions)
    - [Jing](https://www.techsmith.com/jing-tool.html)
    - [Gyazo](https://gyazo.com/)
    - [CloudApp](https://www.getcloudapp.com/)
-   - LightShot (they have a desktop app and a Chrome extension, see extension too)
+   - [LightShot](https://prnt.sc/) ([see this extension too](https://chrome.google.com/webstore/detail/no-more-lightshot-ads/fiefoaeemgdpplhofbhkdehoidoajfld?utm_source=chrome-ntp-icon))
 1. Issue Tracker
    - [Jira](https://www.atlassian.com/software/jira) - the leading option  
    - [YouTrack](https://www.jetbrains.com/youtrack/) - simpler and cheaper and usually sufficient alternative 
@@ -62,19 +62,18 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
         - [VirtualBox](https://www.virtualbox.org/)
    - Package manager
      - NPM for JS, Composer for PHP, RubyGems for Ruby, Cocoa Pods for iOS, Nuget for C#
-1. VCS (version control)
+1. VCS ([version control](https://en.wikipedia.org/wiki/Version_control))
    - GIT
    - Common commands  `git add`, `git commit -m <msg>`, `git push`, `git pull`, `git status`
    - You should know how to initiate a remote repository connect to cloud hosted repo and how to clone a project
-   - Understand  the different  workflows, ie feature branches
+   - Understand  the [different  workflows](https://www.atlassian.com/git/tutorials/comparing-workflows), ie feature branches
 1. Cloud GIT repositories
    - [GitHub](https://github.com/)
    - [BitBucket](https://bitbucket.org)
    - [GitLab](https://about.gitlab.com/)
-1. Semantic Versioning
+1. [Semantic Versioning](https://semver.org/)
    - The most popular way of version numbering in software development
-   - https://semver.org/
-1. SSH/FTP/SFTP
+1. [SSH](https://en.wikipedia.org/wiki/Secure_Shell) /FTP/SFTP
 1. Command line
    - Windows - command prompt, Mac- terminal
    - Common commands: `cd`, `mkdir`, `ls` (Unix)/`dir` (PC), `chmod` (unix),`vi`/`cat` (Unix)...
@@ -100,19 +99,19 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - Windows - IIS (used for .NET projects)
    - Apache
    - Nginx - the new kid on the block
-1. SSL
+1. [SSL](https://en.wikipedia.org/wiki/Transport_Layer_Security)
    - Encrypts traffic on a website 
    - [Let’s Encrypt](https://letsencrypt.org/) - free SSL
-1. IP Address
-   - IPv4
-   - IPv6  
-1. DNS
+1. [IP Address](https://en.wikipedia.org/wiki/IP_address)
+   - [IPv4](https://en.wikipedia.org/wiki/IPv4)
+   - [IPv6](https://en.wikipedia.org/wiki/IPv6)
+1. [DNS](https://en.wikipedia.org/wiki/Domain_Name_System)
    - Name servers
    - DNS records
    - MX records 
    - CNAME records 
-1. CDN
-   - Cloudflare
+1. [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)
+   - [Cloudflare](https://www.cloudflare.com/)
 1. Cloud Hosting Companies
    - [AWS](https://aws.amazon.com/)
    - [Azure](https://azure.microsoft.com/en-us/)
@@ -171,8 +170,8 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
 1. Chrome
    - Signing into chrome 
    - Bookmarks (Bookmarks bar, folders)
-   - Ad blocker - uBlock Origin 
-   - Password Manager - Lastpass
+   - Ad blocker - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon)
+   - Password Manager - [Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon)
 1. Split Windows 
 ## General Computer Terms/Concepts
 1. Keyboard shortcuts (Mac/Windows)
