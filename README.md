@@ -122,11 +122,11 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - [Kubernetes](https://kubernetes.io/)
 1. Serverless, Headless CMS, [AMP](https://www.ampproject.org/)
 ## Monitor 
-1. FullStory, HotJar, Google Analytics
+1. [FullStory](https://www.fullstory.com/), [HotJar](https://www.hotjar.com/), [Google Analytics](https://analytics.google.com/analytics/web/)
 ## Resources 
 - Got a question?
-   - Ask Google?
-- Still can find the answer
+   - Ask Google
+- Still can find the answer?
    -  Ask on [StackExchange](https://stackexchange.com/)
 - [Git Cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 ## Random Terms 
