@@ -17,7 +17,7 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - [WinSCP](https://winscp.net/eng/index.php) (Windows)
 1. Editors
    - [Atom](https://atom.io/)
-   - [Sublime](https://www.sublimetext.com/) (Mac)
+   - [Sublime](https://www.sublimetext.com/)
    - [Brackets](http://brackets.io/)
    - [Visual Studio Code](https://code.visualstudio.com/)
    - [Notepad++](https://notepad-plus-plus.org/) (Windows)
@@ -40,8 +40,8 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - [CloudApp](https://www.getcloudapp.com/)
    - [LightShot](https://prnt.sc/) ([see this extension too](https://chrome.google.com/webstore/detail/no-more-lightshot-ads/fiefoaeemgdpplhofbhkdehoidoajfld?utm_source=chrome-ntp-icon))
 1. Issue Tracker
-   - [Jira](https://www.atlassian.com/software/jira) - the leading option  
-   - [YouTrack](https://www.jetbrains.com/youtrack/) - simpler and cheaper and usually sufficient alternative 
+   - [Jira](https://www.atlassian.com/software/jira) // the leading option  
+   - [YouTrack](https://www.jetbrains.com/youtrack/) // simpler and cheaper and usually sufficient alternative 
 1. Time tracking
    - [toggle](toggl.com)
    - [Harvest](https://www.getharvest.com/)  
@@ -81,7 +81,7 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - React, Angular, Node.js, Vue.js
 1. Content management systems (CMS) - sometimes used for web development
    - Drupal, WordPress, Joomla
-1. [Postman](https://www.getpostman.com/) - for testing APIs    
+1. [Postman](https://www.getpostman.com/) // for testing APIs    
 ## Deploy
 1. CD/CI
    - Continuous integration
@@ -93,23 +93,25 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - Testing/staging/UAT (there may be multiple levels)
    - Production  
 1. Server OS 
-   - Windows Server - web server = ISIS 
-   - Linux - Used for PHP and other technologies 
+   - [Windows Server](https://www.microsoft.com/en-us/cloud-platform/windows-server) (web server = IIS)
+   - [Linux](https://www.linux.org/) // Used for PHP and other technologies 
 1. Web Servers 
-   - Windows - IIS (used for .NET projects)
-   - Apache
-   - Nginx - the new kid on the block
+   - [IIS](https://www.iis.net/) // Microsoft product, used for .NET projects
+   - [Apache](https://httpd.apache.org/)
+   - [Nginx](https://www.nginx.com/) // the new kid on the block
 1. [SSL](https://en.wikipedia.org/wiki/Transport_Layer_Security)
    - Encrypts traffic on a website 
-   - [Let’s Encrypt](https://letsencrypt.org/) - free SSL
+   - [Let’s Encrypt](https://letsencrypt.org/) // free SSL
 1. [IP Address](https://en.wikipedia.org/wiki/IP_address)
    - [IPv4](https://en.wikipedia.org/wiki/IPv4)
    - [IPv6](https://en.wikipedia.org/wiki/IPv6)
 1. [DNS](https://en.wikipedia.org/wiki/Domain_Name_System)
-   - Name servers
-   - DNS records
-   - MX records 
-   - CNAME records 
+   - [Name servers](https://en.wikipedia.org/wiki/Name_server)
+   - [DNS records](https://en.wikipedia.org/wiki/List_of_DNS_record_types)
+   - A records // Returns a IPv4 address, most commonly used to map hostnames to an IP address of the host
+   - MX records // email records
+   - CNAME records
+   - TXT records 
 1. [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)
    - [Cloudflare](https://www.cloudflare.com/)
 1. Cloud Hosting Companies
@@ -125,9 +127,10 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
 1. [FullStory](https://www.fullstory.com/), [HotJar](https://www.hotjar.com/), [Google Analytics](https://analytics.google.com/analytics/web/)
 ## Resources 
 - Got a question?
-   - Ask Google
+   - Ask Google (yeh, really!)
 - Still can find the answer?
-   -  Ask on [StackExchange](https://stackexchange.com/)
+   -  Ask on [stackoverflow](https://stackoverflow.com/) // general development questions 
+   -  Or a the appropriate [StackExchange](https://stackexchange.com/) site
 - [Git Cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 ## Random Terms 
    - Client - a program on the computer used to access something. Email client, CLI client...
@@ -152,13 +155,13 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
      - [InVision DSM](https://www.invisionapp.com/design-system-manager/learn)
      - Sketch Libraries
 1. General Design
-   - Illustrator - primarily for vector images (free alternative [Inkscape](https://inkscape.org/))
-   - Photoshop - primarily for raster (free alternative GIMP)
-   - Grab a color value from your screen - http://colorcop.net/  (Windows)
+   - Illustrator // primarily for vector images (free alternative [Inkscape](https://inkscape.org/))
+   - Photoshop // primarily for raster (free alternative GIMP)
+   - Grab a color value from your screen // http://colorcop.net/  (Windows)
 1. Image types (which to use when)
-   - jpeg - for complex images with many colors (e.g. lifestyle image)
-   - png - with transparency (e.g. logo image)
-   - svg - vector image format 
+   - jpeg // for complex images with many colors (e.g. lifestyle image)
+   - png // with transparency (e.g. logo image)
+   - svg // vector image format (always use svg, unless you specially have a reason not to)
 1. Raster vs vector
 1. Need inspiration? Go to [Dribbble](https://dribbble.com/) 
 ## Setting up your computer 
@@ -171,13 +174,15 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - Signing into chrome 
    - Bookmarks (Bookmarks bar, folders)
    - Ad blocker - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon)
-   - Password Manager - [Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon)
+   - Password Manager
+     - [Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon)
+     - [1Password](https://1password.com/)
 1. Split Windows 
 ## General Computer Terms/Concepts
 1. Keyboard shortcuts (Mac/Windows)
-   - Command/Ctrl + C,  copy
+   - Command/Ctrl + C, copy
    - Command/Ctrl + V, paste
-   - Command/Ctrl + X, cut (Does not work in Finder)
+   - Command/Ctrl + X, cut (does not work in Finder)
 1. Browser Shortcuts (Mac/Windows)
-   - Command/Ctrl + R,  refresh page
+   - Command/Ctrl + R, refresh page
    - Command/Ctrl + Shift+ R,  hard refresh
