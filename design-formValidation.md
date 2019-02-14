@@ -1,6 +1,6 @@
 # Form validation 
 ## Introduction 
-When a user fills in a form on a webpage there are quite a few things that need to be addressed to provide the best user experience. One of those items are form validation, below are some pointers.
+When a user fills in a form on a web page there are quite a few things that need to be addressed to provide the best user experience. One of those items is form validation, below are some pointers.
 ## Pointers
 - Avoid errors in the first place
 	- Use field input mask where applicable (make it impossible to put in an incorrectly formatted date in a date field)
