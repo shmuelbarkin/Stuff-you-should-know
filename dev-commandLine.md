@@ -27,8 +27,8 @@
 - `rm -rf {directoryname}` //delete directory and all sub directories
 - `mkdir` {filename} //make directory
 - `vim {filename}` //open file to edit
-- `:wq {filename}` //save and quit vim
-- `:q {filename}` // quit vim
+- esc `:wq {filename}` //save and quit vim
+- esc `:q {filename}` // quit vim
 
 ## Other
 **Server Updates**

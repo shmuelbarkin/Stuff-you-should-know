@@ -27,3 +27,4 @@
    - svg // vector image format (always use svg, unless you specially have a reason not to)
 1. Raster vs vector
 1. Need inspiration? Go to [Dribbble](https://dribbble.com/)
+1. Check out [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) for a comprehensive list of design tools

@@ -1,12 +1,15 @@
-# Form validation 
-## Introduction 
+# Form validation
+
+## Introduction
 When a user fills in a form on a web page there are quite a few things that need to be addressed to provide the best user experience. One of those items is form validation, below are some pointers.
+
 ## Pointers
 - Avoid errors in the first place
 	- Use field input mask where applicable (make it impossible to put in an incorrectly formatted date in a date field)
 	- Use clear labels, placeholder text and add explanatory text or tooltips as needed
+	- Remove leading and trailing spaces on fields that a space will trigger a validation error (email address, zip code…)
 - Show errors as soon as possible 
-  - Check errors as soon the user leaves the field (if the error can be determined based on that cells input)
+  - Check errors as soon the user leaves the field `onblur` (if the error can be determined based on that cells input)
   - If the error can only be determined based on the contents of more than one cell, then check for the error as soon as the user has entered data into all relevant cells
   - Some errors will need to wait until form submit (e.g. a credit card is being processed)
 - Don't show the error too early 

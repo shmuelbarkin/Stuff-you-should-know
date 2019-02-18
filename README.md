@@ -1,15 +1,19 @@
 # Stuff you should know
+
 ## Objective
 This objective of this project is to provide a list of basic development concepts geared towards beginning developers. These are listed below.
 I have also included some other useful resources, such as - common command line commands, issue templates, website checklist and more. Those are presented as additional files in this repo. 
+
 ## Repo structure
 This repo contains resources for the development process end to end. To we have used a prefix to identify which part of the process it belongs to.
 - dev => development
 - projectManagement => projectManagement 
 - design = design and UX/UI
 *Often there is an overlap, so these classifications are the closest match to the contents according to my understanding.*
+
 ## Contribute
 Feel free to contribute. Create a pull request, or shoot me an email at sb@sbarkin.com.
+
 ## Tooling
 1. [CLI](https://en.wikipedia.org/wiki/Command-line_interface) (SSH Client)
    - [iTerm2](https://www.iterm2.com/) (Mac)
@@ -59,6 +63,7 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - [G Suite](https://gsuite.google.com/)
    - [Office 365](https://www.office.com/)
    - Self Hosted  
+
 ## Build
 1. Setting up a local development environment 
    - Localhost web server
@@ -88,12 +93,14 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
 1. Content management systems (CMS) - sometimes used for web development
    - Drupal, WordPress, Joomla
 1. [Postman](https://www.getpostman.com/) // for testing APIs    
+
 ## Deploy
 1. CD/CI
    - Continuous integration
      - [Jenkins](https://jenkins.io/)
      - [Travis](https://travis-ci.com/)
    - Continuous deployment (or delivery)
+   - Code sniffing and linting
 1. Server environments
    - Development
    - Testing/staging/UAT (there may be multiple levels)
@@ -128,9 +135,16 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
 1. Container Management
    - [Docker](https://www.docker.com/)
    - [Kubernetes](https://kubernetes.io/)
+1. Security and Recovery
+   - Automatic security patching 
+   - [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page)
+   - Servers should have read only permissions to repo
+   - Setup database backups
 1. Serverless, Headless CMS, [AMP](https://www.ampproject.org/)
+
 ## Monitor 
 1. [FullStory](https://www.fullstory.com/), [HotJar](https://www.hotjar.com/), [Google Analytics](https://analytics.google.com/analytics/web/)
+
 ## Resources 
 - Got a question?
    - Ask Google (yeh, really!)
@@ -138,9 +152,12 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    -  Ask on [stackoverflow](https://stackoverflow.com/) // general development questions 
    -  Or a the appropriate [StackExchange](https://stackexchange.com/) site
 - [Git Cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- Comprehensive list of development stuffs [Awesome list](https://github.com/sindresorhus/awesome)
+
 ## Random Terms 
    - Client - a program on the computer used to access something. Email client, CLI client...
    - Provision (server)
+
 ## Setting up your computer 
 1. Windows account types
    - AD
@@ -155,6 +172,7 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
      - [Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon)
      - [1Password](https://1password.com/)
 1. Split Windows 
+
 ## General Computer Terms/Concepts
 1. Keyboard shortcuts (Mac/Windows)
    - Command/Ctrl + C, copy
