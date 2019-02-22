@@ -27,3 +27,14 @@ When a user fills in a form on a web page there are quite a few things that need
 	- You would be surprised how many users don't realize they need to click that box!
 - Monitor 
 	- Like with all UX - use [fullstory](https://www.fullstory.com) to see how your users interact with the form and where they are getting stuck.
+	
+## Internalization
+*Internalization, when creating a form that is taking input from users in multiple countries some fields need to factor in the varying conventions used*
+- Phone numbers
+	- Insure you input mask works for all countries
+	- If most of your users are from the US you can use a input mask that will format the numbers based on this xxx-xxx-xxxx but if the user has more or less than 10 digits the mask is removed
+	- If there are more than 10 digits the mask is removed as the user types, if there are less than 10 digits the mask is removed `onblur`
+- Address
+	- State - this is typically only used in the US, if the user chooses Canada the label and options should change to `Province`, if any other country is chosen, this field should be hidden 
+	- Zip code - only in the US is this called a `Zip code`, if any other country other that US is chosen the label should change to `Postal code`
+	- Zip code validation - if you use Zip code validation make sure the validation is based on country. If you don't have a **reliable** validation regex for a specific county it's better to skip validation entirely (typically I skip validation for any county other US or Canada)

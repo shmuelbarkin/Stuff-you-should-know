@@ -136,10 +136,11 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - [Docker](https://www.docker.com/)
    - [Kubernetes](https://kubernetes.io/)
 1. Security and Recovery
-   - Automatic security patching 
+   - Ensure the server has automatic security patching 
    - [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page)
    - Servers should have read only permissions to repo
-   - Setup database backups
+   - Setup database backups to a remote location
+   - Configure alerts fro critical server usage, errors and exceptions 
 1. Serverless, Headless CMS, [AMP](https://www.ampproject.org/)
 
 ## Monitor 
