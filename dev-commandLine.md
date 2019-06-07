@@ -21,7 +21,25 @@
 **git resources**
 - https://github.com/github/gitignore // gitignorefiles
 
+**global .gitignore**
+
+Mac
+- `touch ~/.gitignore_global` // Create file 
+- `git config --global core.excludesfile ~/.gitignore_global` // Declare the global .gitignore 
+- `vim .gitignore_global` // Open and add items as needed
+  - .DS_Store
+  - .DS_Store?
+  - .idea
+  - *~
+  - log/
+  - *.log
+
+Windows
+- [See this article](https://gist.github.com/subfuzion/db7f57fff2fb6998a16c)
+
 ## General Commands
+
+**Folder and files**
 - `mv * .[^.]* ../` // Move all files up a level
 - `sed -i 's/original/new/g'` {filename} //Find and replace
 - `rm -rf {directoryname}` //delete directory and all sub directories
@@ -29,6 +47,24 @@
 - `vim {filename}` //open file to edit
 - esc `:wq {filename}` //save and quit vim
 - esc `:q {filename}` // quit vim
+
+**SSH**
+- Generate key `ssh-keygen`
+- Copy public key `cat .ssh/id_rsa.pub`
+
+**Project setup**
+
+{php project with npn}
+- `git clone`
+- `npm install`
+- `composer install`
+- Create .env file at project root
+- `npm run watch`
+- `php artisan serve`
+
+**Update project configuration**
+- `php artisan optimize`
+- `php artisan cache:clear`
 
 ## Other
 **Server Updates**
