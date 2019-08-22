@@ -33,6 +33,7 @@ Mac
   - *~
   - log/
   - *.log
+  - node_modules/
 
 Windows
 - [See this article](https://gist.github.com/subfuzion/db7f57fff2fb6998a16c)
