@@ -91,8 +91,10 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
 1. Popular JS Frameworks
    - React, Angular, Node.js, Vue.js
 1. Content management systems (CMS) - sometimes used for web development
-   - Drupal, WordPress, Joomla
-1. [Postman](https://www.getpostman.com/) // for testing APIs    
+   - [Drupal](https://www.drupal.org/), [WordPress](https://wordpress.com/), [Joomla](https://www.joomla.org/)
+   - [Headless CMS](https://headlesscms.org/)
+   - [Netlify CMS](https://www.netlifycms.org/)
+1. [Postman](https://www.getpostman.com/) // for testing APIs
 
 ## Deploy
 1. CD/CI
@@ -132,6 +134,11 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
    - [Azure](https://azure.microsoft.com/en-us/)
    - [Google Cloud](https://cloud.google.com/)
    - [DigitalOcean](https://www.digitalocean.com/)
+1. Static site hosting (for JAM sites)
+   - [Netlify](https://www.netlify.com/)
+   - [Vercel](https://vercel.com/)
+1. PaaS (Platform as a service)
+   - [Heroku](https://www.heroku.com/)
 1. Container Management
    - [Docker](https://www.docker.com/)
    - [Kubernetes](https://kubernetes.io/)
