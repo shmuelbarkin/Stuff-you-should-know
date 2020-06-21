@@ -144,7 +144,7 @@ Feel free to contribute. Create a pull request, or shoot me an email at sb@sbark
 1. Serverless, Headless CMS, [AMP](https://www.ampproject.org/)
 
 ## Monitor 
-1. [FullStory](https://www.fullstory.com/), [HotJar](https://www.hotjar.com/), [Google Analytics](https://analytics.google.com/analytics/web/)
+1. [FullStory](https://www.fullstory.com/), [LogRocket](https://logrocket.com/) [HotJar](https://www.hotjar.com/), [Google Analytics](https://analytics.google.com/analytics/web/)
 
 ## Resources 
 - Got a question?
